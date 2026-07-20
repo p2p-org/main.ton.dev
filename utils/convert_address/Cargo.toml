@@ -7,4 +7,4 @@ edition = "2018"
 [dependencies]
 hex = "0.3.2"
 base64 = "0.10.0"
-crc-any = "2.2.3"
+crc-any = "3.0.0"
